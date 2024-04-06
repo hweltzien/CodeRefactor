@@ -8,11 +8,9 @@ I learned about the difference between semantic and non-semantic elements in HTM
 
 ## Table of Contents 
 
-If your README is long, add a table of contents to make it easy for users to find what they need.
-
 - [Installation](#installation)
 - [Usage](#usage)
-- [How-To-Guide]
+- [How-To-Guide](#how-to-guide)
 - [Credits](#credits)
 - [License](#license)
 
@@ -23,11 +21,11 @@ N/A
 ## Usage
 
 The company, Horiseon, is a marketing agency. The company website has a horizontal navigation bar with three items. 
-![nav bar image](image.png)
+<img src="./assets/images/image.png" alt=navigation bar image>
 Each item provides a link to the related figure below. The figures provide information on the services the company provides. 
-![article screenshot](image-1.png)
+<img src="./assets/images/image-1.png" alt=article screenshot>
 There is an aside to the right of the figures. The information in the aside describes the benefits of hiring this marketing agency. 
-![aside screenshot](image-2.png)
+<img src="./assets/images/image-2.png" alt=aside screenshot>
 
 ## How-To-Guide
 <ol>
@@ -62,7 +60,7 @@ There is an aside to the right of the figures. The information in the aside desc
                 <ul>    
                     <li> git add -A </li>
                     <li> git status </li>
-                    <li> git commit -m "initial commit" </li>
+                    <li> git commit -m "commit message" </li>
                     <li> git push </li>
                 </ul>
     <li> Create README </li>
@@ -73,16 +71,16 @@ There is an aside to the right of the figures. The information in the aside desc
 
 ## Credits
 <ul>
-<li> Tutoring session with Alexis "Alex" Gonzalez <img src="./assets/tutoring session.png" alt=recorded tutoring session screenshot> </li>
+<li> Tutoring session with Alexis "Alex" Gonzalez <img src="./assets/images/tutoring session.png" alt=recorded tutoring session screenshot> </li>
 <li> <a href="https://github.com/RyanPetersen-89">Ryan Peterson's project</a> was used as a reference </li>
-<li> HTML Crash Course For Absolute Beginners <img src="./assets/HTML Crash Course.png" alt=YouTube video screenshot> </li>
-<li> CSS Crash Course For Absolute Beginners <img src="./assets/CSS Crash Course.png" alt=YouTube video screenshot> </li>
+<li> HTML Crash Course For Absolute Beginners <img src="./assets/images/HTML Crash Course.png" alt=YouTube video screenshot> </li>
+<li> CSS Crash Course For Absolute Beginners <img src="./assets/images/CSS Crash Course.png" alt=YouTube video screenshot> </li>
 
 
 ## License
 
 Please refer to the LICENSE in the repo.
 
-# [Link to completed project](file:///C:/Users/aandh/bootcamp/Module-1-Challenge/index.html)
+# [link to completed project](file:///C:/Users/aandh/bootcamp/Module-1-Challenge/index.html)
 
 
