@@ -81,6 +81,6 @@ There is an aside to the right of the figures. The information in the aside desc
 
 Please refer to the LICENSE in the repo.
 
-# [link to completed project](file:///C:/Users/aandh/bootcamp/Module-1-Challenge/index.html)
+# [link to completed project](https://hweltzien.github.io/Module-1-Challenge/)
 
 
