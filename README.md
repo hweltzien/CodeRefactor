@@ -6,13 +6,13 @@ After utilizing web-based resources and instructional support, this project help
 I learned about the difference between semantic and non-semantic elements in HTML. I learned how to identify repeating elements and consolidate CSS selectors. I organized CSS selectors to follow the semantic structure of the HTML elements.
 
 
-## Table of Contents (Optional)
+## Table of Contents 
 
 If your README is long, add a table of contents to make it easy for users to find what they need.
 
 - [Installation](#installation)
 - [Usage](#usage)
-- [How-To Guide] (#how-to guide)
+- [How-To-Guide]
 - [Credits](#credits)
 - [License](#license)
 
@@ -22,9 +22,14 @@ N/A
 
 ## Usage
 
-Provide instructions and examples for use. Include screenshots as needed.
+The company, Horiseon, is a marketing agency. The company website has a horizontal navigation bar with three items. 
+![nav bar image](image.png)
+Each item provides a link to the related figure below. The figures provide information on the services the company provides. 
+![article screenshot](image-1.png)
+There is an aside to the right of the figures. The information in the aside describes the benefits of hiring this marketing agency. 
+![aside screenshot](image-2.png)
 
-## How-To Guide
+## How-To-Guide
 <ol>
     <li>    Clone starter code </li>
                 <ul>
@@ -57,32 +62,27 @@ Provide instructions and examples for use. Include screenshots as needed.
                 <ul>    
                     <li> git add -A </li>
                     <li> git status </li>
-                    <li> commit commit -m "initial commit" </li>
+                    <li> git commit -m "initial commit" </li>
                     <li> git push </li>
                 </ul>
-
     <li> Create README </li>
-
     <li> Push changes to the remote repository </li>
-
     <li> Submit Challenge for review </li>
 </ol>
 
 
 ## Credits
-
-Tutoring session with Alexis "Alex" Gonzalez <img src="./assets/tutoring session.png" alt=recorded tutoring session screenshot>
-
-<a href="https://github.com/RyanPetersen-89">Ryan Peterson's project</a> was used as a reference
-HTML Crash Course For Absolute Beginners <img src="./assets/HTML Crash Course.png" alt=YouTube video screenshot>
-
-CSS Crash Course For Absolute Beginners <img src="./assets/CSS Crash Course.png" alt=YouTube video screenshot>
+<ul>
+<li> Tutoring session with Alexis "Alex" Gonzalez <img src="./assets/tutoring session.png" alt=recorded tutoring session screenshot> </li>
+<li> <a href="https://github.com/RyanPetersen-89">Ryan Peterson's project</a> was used as a reference </li>
+<li> HTML Crash Course For Absolute Beginners <img src="./assets/HTML Crash Course.png" alt=YouTube video screenshot> </li>
+<li> CSS Crash Course For Absolute Beginners <img src="./assets/CSS Crash Course.png" alt=YouTube video screenshot> </li>
 
 
 ## License
 
 Please refer to the LICENSE in the repo.
 
-# <a href="file:///C:/Users/aandh/bootcamp/Module-1-Challenge/index.html">Link to completed project</a> 
+# [Link to completed project](file:///C:/Users/aandh/bootcamp/Module-1-Challenge/index.html)
 
 
