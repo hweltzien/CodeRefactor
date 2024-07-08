@@ -1,4 +1,4 @@
-# Module-1-Challenge
+# Code Refactor
 
 ## Description
 After utilizing web-based resources and instructional support, this project helped me to apply classroom knowledge and practice technical skills. The end goal of this project is to grow a customer base for a mock company, Horiseon. Given starter code, modifications were made to improve web accessibility. When a codebase follows accessibility standards, the site is optimized for search engines. As a result, site traffic increases and costs for advertising decrease, maximizing profit.
@@ -81,6 +81,6 @@ There is an aside to the right of the figures. The information in the aside desc
 
 Please refer to the LICENSE in the repo.
 
-# [link to completed project](https://hweltzien.github.io/Module-1-Challenge/)
+# [link to completed project](https://hweltzien.github.io/CodeRefactor/)
 
 
